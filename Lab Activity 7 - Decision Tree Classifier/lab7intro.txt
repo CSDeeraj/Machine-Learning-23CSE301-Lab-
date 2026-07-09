@@ -1,0 +1,1 @@
+this is Deeraj here with the 7th lab activity code - which is Decision Tree Classifier(DTC from now on). from what i understand the DTC is a tree containing decision nodes and leaf nodes.Each decision is present at each layer which braches out depending on the choice. 
